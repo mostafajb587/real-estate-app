@@ -6,7 +6,6 @@ const ErrorPage = () => {
   const error = useRouteError();
 
   if (isRouteErrorResponse(error)) {
-    // === Route Error (like 404) ===
     return (
       <div className="min-h-screen bg-gradient-to-tr from-gray-100 via-white to-gray-200 flex items-center justify-center px-4">
         <div className="relative z-10 max-w-xl text-center p-10 rounded-2xl backdrop-blur-md bg-white/60 border border-white/30 shadow-lg">
