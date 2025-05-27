@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "Modern Apartment in City Center",
+      "type": "apartment",
+      "price": 1200,
+      "location": "New York, NY",
+      "image": "https://source.unsplash.com/random/800x600/?apartment",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": 80,
+      "description": "Modern apartment with city view."
+    },
+    {
+      "id": 2,
+      "title": "Suburban House with Garden",
+      "type": "house",
+      "price": 2500,
+      "location": "San Jose, CA",
+      "image": "https://source.unsplash.com/random/800x600/?house",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 200,
+      "description": "Spacious house in a quiet neighborhood."
+    }
+  ]
+}
